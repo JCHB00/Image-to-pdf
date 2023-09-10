@@ -24,3 +24,15 @@ The correct method is change the type of image before you enter the image.
 *正确的做法是修改图片的格式，如下
 
 Example:  photo name : 1.png  => 1.jpg
+
+New update! 2023/9/10\n
+now you cna use the img2pdf2.
+It doesn't limit the quantity of the photo
+
+
+How to use it:
+
+Create a new file, push the program(exe or py) and photo(jpg) in it , then run the program.
+
+I have updated the exe file but it bigger tham 25mb,
+so I converted it to be a zip file. You need to convert it befoe you use.
