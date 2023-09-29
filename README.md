@@ -28,7 +28,15 @@ New New updata! 2023/9/29
 
 Now you can use the img2pdf3.
 
-In this program you don't need to input any things but you need to create a file, "Photo". And put your photo in it.
+現在你可以使用img2pdf3 版本
+
+In this program you don't need to input anythings but you need to create a file, "Photo". And put your photo in it.
+
+在img2pdf3中， 你不需要輸入任何東西，但是你需要創建一個文件夾， 名稱為"Photo". 在使用時，你需要將圖片放入于該文件夾中。
+
+If you can to quick to start, you can use the exe file, e.g. img2pdf3.exe
+
+如果你想直接使用該程式，你可以下載exe file, 例如 img2pdf3.exe.
 
 
 
@@ -57,5 +65,7 @@ The correct method is change the type of image before you enter the image.
 *正确的做法是修改图片的格式，如下
 
 Example:  photo name : 1.png  => 1.jpg
+
+
 
 
