@@ -2,9 +2,14 @@
 It is a python pragrom for people input the image(only jpg) and get  the pdf.
 * 这是一个python 程序，用于将图片(jpg 格式)转化并整理成一个文件
 
+#Warning(Updata in 2023/9/29)
 
 
+I found that img2pdf2 wasn't work because of some problems. Please don't use it. 
 
+You should use the img2pdf3.py or img2pdf3.exe. Thanks!
+
+---------------------------------------------------------------------------------
 New update! 2023/9/10
 
 now you cna use the img2pdf2.
